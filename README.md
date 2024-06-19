@@ -21,3 +21,4 @@ gammapy download datasets
 Set a $GAMMAPY_DATA path in your environment
 ```
 conda env config vars set GAMMAPY_DATA=$PWD/gammapy-datasets/1.2
+
